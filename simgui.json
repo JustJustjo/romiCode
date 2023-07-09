@@ -1,0 +1,65 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "BuiltInAccel": {
+        "header": {
+          "open": true
+        }
+      },
+      "RomiGyro": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Auto Choices": "String Chooser",
+      "/SmartDashboard/Auto choices": "String Chooser",
+      "/SmartDashboard/SendableChooser[0]": "String Chooser"
+    }
+  },
+  "NetworkTables": {
+    "retained": {
+      "Romi": {
+        "Config": {
+          "open": true
+        },
+        "Information": {
+          "open": true
+        },
+        "Status": {
+          "open": true
+        },
+        "open": true
+      }
+    },
+    "transitory": {
+      "AdvantageKit": {
+        "DriverStation": {
+          "Joystick0": {
+            "open": true
+          },
+          "open": true
+        },
+        "RealOutputs": {
+          "LoggedRobot": {
+            "open": true
+          },
+          "Logger": {
+            "open": true
+          }
+        },
+        "SystemStats": {
+          "open": true
+        },
+        "open": true
+      },
+      "Drivetrain": {
+        "open": true
+      }
+    }
+  }
+}
