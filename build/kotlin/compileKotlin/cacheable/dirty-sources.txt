@@ -1,0 +1,14 @@
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/sensors/RomiGyro.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/IO/DriveSimIO.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/commands/AutonomousDistance.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/IO/DriveRealIO.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/Robot.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/RobotContainer.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/commands/ArcadeDrive.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/subsystems/Drivetrain.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/OI.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/Constants.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/Main.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/commands/TurnDegrees.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/commands/DriveDistance.kt
+/Users/justin/Documents/Coding/romitemplate/src/main/java/frc/robot/subsystems/OnBoardIO.kt
